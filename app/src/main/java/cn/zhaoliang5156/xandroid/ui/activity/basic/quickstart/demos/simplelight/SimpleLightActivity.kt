@@ -18,6 +18,7 @@ class SimpleLightActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_simple_light)
 
+        // 设置标题
         title = getString(R.string.simple_light)
 
         // 给按钮设置点击事件

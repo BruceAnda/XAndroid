@@ -15,6 +15,7 @@ class HelloWorldActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_hello_world)
 
+        // 设置标题
         title = getString(R.string.hello_world)
     }
 }

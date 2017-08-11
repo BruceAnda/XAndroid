@@ -17,6 +17,7 @@ class SimpleDownloadUIActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_simple_download_ui)
 
+        // 设置标题
         title = getString(R.string.download)
 
         // 给按钮设置点击事件
