@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">XAndroid</string>
+    <string name="title_basic">基础</string>
+    <string name="title_third">三方</string>
+    <string name="title_proj">项目</string>
+    <string name="title_other">其他</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quick_start">快速入门</string>
+    <string name="hello_world">HelloWorld</string>
+    <string name="download">下载</string>
+    <string name="downloading">下载中。。。</string>
+    <string name="red">红</string>
+    <string name="green">绿</string>
+    <string name="blue">蓝</string>
+    <string name="simple_light">简易手电筒</string>
+
+    <string-array name="Basic">
+        <item>核心基础</item>
+        <item>自定义控件</item>
+        <item>JNI</item>
+        <item>Android与H5互调</item>
+        <item>源码框架分析</item>
+        <item>多渠道打包</item>
+    </string-array>
+
+    <string-array name="CoreBasic">
+        <item>快速入门</item>
+        <item>四大组件</item>
+        <item>UI</item>
+        <item>数据存储</item>
+        <item>核心机制</item>
+        <item>动画</item>
+        <item>图像处理</item>
+        <item>多媒体</item>
+    </string-array>
+
+    <string-array name="QuickStart">
+        <item>HelloWorld</item>
+        <item>SimpleDownloadUI</item>
+        <item>SimpleLight</item>
+    </string-array>
+</resources>
